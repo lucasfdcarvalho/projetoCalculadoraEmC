@@ -42,7 +42,7 @@ int main(){
             printf("Digite o segundo numero: ");
             scanf("%lf", &num2);
             if(num2 == 0){
-                printf("Erro: Divisao por zero n„o e permitido\n");
+                printf("Erro: Divisao por zero n√£o e permitido\n");
             }else{
                 resultado = num1 / num2;
                 printf("Resultado: %lf / %lf = %lf\n", num1, num2, resultado);
